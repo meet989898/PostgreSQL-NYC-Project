@@ -28,13 +28,13 @@ from pymongo import MongoClient
 # Postgres connection settings
 DB_NAME = "Project"
 DB_USER = "postgres"
-DB_PASSWORD = "MgRIT1905@28082808"
+DB_PASSWORD = ""
 DB_HOST = "localhost"
-DB_PORT = "2808"
+DB_PORT = ""
 
 # MongoDB's connection settings
-connection_url = "mongodb://localhost:27017/"
-mongo_db_name = "NY_Bus_Timing_Project"
+connection_url = ""
+mongo_db_name = ""
 
 
 def connect_to_db():

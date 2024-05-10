@@ -49,9 +49,9 @@ import matplotlib.pyplot as plt
 # Postgres connection settings
 DB_NAME = "Project"
 DB_USER = "postgres"
-DB_PASSWORD = "MgRIT1905@28082808"
+DB_PASSWORD = ""
 DB_HOST = "localhost"
-DB_PORT = "2808"
+DB_PORT = ""
 
 
 def connect_to_db():
